@@ -1,7 +1,7 @@
 {
   "name": "keyarray",
   "description": "manipulate nested data with arrays of keys",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Kyle E. Mitchell",
     "email": "kyle@kemitchell.com",
