@@ -1,35 +1,40 @@
 {
-  "name": "NAME",
-  "description": "DESCRIPTION",
+  "name": "keyarray",
+  "description": "manipulate nested data with arrays of keys",
   "version": "0.0.0-prerelease",
   "author": {
     "name": "Kyle E. Mitchell",
     "email": "kyle@kemitchell.com",
     "url": "http://kemitchell.com/"
   },
-  "bugs": "https://github.com/ORGANIZATION/NAME.js/issues",
-  "devDependencies": {
-    "chai": "^2.2.0",
-    "check-versions": "^1.0.0",
-    "istanbul": "^0.3.13",
-    "jscs": "^1.12.0",
-    "jshint": "^2.7.0",
-    "mocha": "^2.2.4"
+  "bugs": "https://github.com/kemitchell/keyarray.js/issues",
+  "dependencies": {
+    "keyarray-get": "0.1.x",
+    "keyarray-has": "0.1.x"
   },
-  "homepage": "https://github.com/ORGANIZATION/NAME.js",
-  "keywords": [],
+  "devDependencies": {
+    "jscs": "^1.12.0",
+    "jshint": "^2.7.0"
+  },
+  "homepage": "https://github.com/kemitchell/keyarray.js",
+  "keywords": [
+    "arrays",
+    "deep",
+    "keys",
+    "nested",
+    "objects",
+    "predicate",
+    "recursive"
+  ],
   "license": "Apache-2.0",
-  "main": "source/index.js",
+  "main": "source/keyarray.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ORGANIZATION/NAME.js.git"
+    "url": "https://github.com/kemitchell/keyarray.js.git"
   },
   "scripts": {
-    "check": "check-versions",
-    "coverage": "istanbul cover _mocha && istanbul check-coverage coverage/coverage.json",
     "lint": "jshint source test && jscs source test",
-    "pre-commit": "npm run check && npm run lint && npm run coverage",
-    "test": "mocha",
+    "pre-commit": "npm run lint",
     "travis-ci": "npm run pre-commit"
   }
 }

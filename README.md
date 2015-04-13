@@ -1,7 +1,7 @@
-NAME.js
-=========
+keyarray.js
+===========
 
-[![NPM version](https://img.shields.io/npm/v/NAME.svg)](https://www.npmjs.com/package/NAME)
-[![build status](https://img.shields.io/travis/kemitchell/NAME.js.svg)](http://travis-ci.org/kemitchell/NAME.js)
+[![NPM version](https://img.shields.io/npm/v/keyarray.svg)](https://www.npmjs.com/package/keyarray)
+[![build status](https://img.shields.io/travis/kemitchell/keyarray.js.svg)](http://travis-ci.org/kemitchell/keyarray.js)
 
-DESCRIPTION
+Manipulate nested data with arrays of keys
