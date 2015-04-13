@@ -9,6 +9,7 @@
   },
   "bugs": "https://github.com/kemitchell/keyarray.js/issues",
   "dependencies": {
+    "keyarray-delete": "0.1.x",
     "keyarray-get": "0.1.x",
     "keyarray-has": "0.1.x"
   },
