@@ -6,6 +6,4 @@ keyarray.js
 
 Manipulate nested data with arrays of keys.
 
-Wraps:
-- [keyarray-has](https://npmjs.com/package/keyarray-has)
-- [keyarray-get](https://npmjs.com/package/keyarray-get)
+Wraps [keyarray-has](https://npmjs.com/package/keyarray-has)@0.1.x and [keyarray-get](https://npmjs.com/package/keyarray-get)@0.1.x.
