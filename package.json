@@ -11,7 +11,8 @@
   "dependencies": {
     "keyarray-delete": "0.1.x",
     "keyarray-get": "0.1.x",
-    "keyarray-has": "0.1.x"
+    "keyarray-has": "0.1.x",
+    "keyarray-set": "0.1.x"
   },
   "devDependencies": {
     "check-versions": "^1.0.0",
