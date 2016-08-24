@@ -7,10 +7,10 @@
     "index.js"
   ],
   "dependencies": {
-    "keyarray-delete": "0.1.x",
-    "keyarray-get": "0.1.x",
-    "keyarray-has": "0.1.x",
-    "keyarray-set": "0.1.x"
+    "keyarray-delete": "^1.0.0",
+    "keyarray-get": "^1.0.0",
+    "keyarray-has": "^1.0.0",
+    "keyarray-set": "^1.0.0"
   },
   "keywords": [
     "arrays",
