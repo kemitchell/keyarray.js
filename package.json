@@ -3,6 +3,9 @@
   "description": "manipulate nested data with arrays of keys",
   "version": "0.1.2",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com)",
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "keyarray-delete": "0.1.x",
     "keyarray-get": "0.1.x",
@@ -19,5 +22,5 @@
     "recursive"
   ],
   "license": "Apache-2.0",
-  "repository":"kemitchell/keyarray.js"
+  "repository": "kemitchell/keyarray.js"
 }
