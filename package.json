@@ -21,6 +21,6 @@
     "predicate",
     "recursive"
   ],
-  "license": "Apache-2.0",
+  "license": "MIT",
   "repository": "kemitchell/keyarray.js"
 }
