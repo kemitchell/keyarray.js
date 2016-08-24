@@ -30,7 +30,6 @@
     "recursive"
   ],
   "license": "Apache-2.0",
-  "main": "keyarray.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/kemitchell/keyarray.js.git"
